@@ -1,7 +1,5 @@
 # weather-forecast-app
 
-# weather-forecast-app
-
 A summary of my weather forercasting app
 
 Features:
