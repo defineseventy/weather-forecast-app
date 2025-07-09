@@ -1,6 +1,4 @@
-# weather-forecast-app
-
-A summary of my weather forercasting app
+A summary of my weather forercasting app made using CustomTkniter
 
 Features:
   *	Python code.
