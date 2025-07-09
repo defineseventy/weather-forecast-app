@@ -3,12 +3,12 @@
 A summary of my weather forercasting app
 
 Features:
-    * CustomTkniter as the GUI
-    * Openweatherapi 
-    * Datetime
-    * Images 
-    * Day/night
-    * Temperature
-    * Will be done in Python language
+  *	Python code.
+  *	Openweatherapp (Link to OpenWeatherMap: https://openweathermap.org/api)
+  *	Light/Dark toggle mode.
+  *	Search button
+  *	Check/Clear weather history
+  *	Usage of Customtkniter to make a more modern UI 
+  *	Link to CustomTkniter: https://customtkinter.tomschimansky.com/
 
-Hopefully i won't run into issues along the way.
+I made this by referencing the GeekforGeeks version of a Weather Forecast App [https://www.geeksforgeeks.org/python/create-a-gui-for-weather-forecast-using-openweathermap-api-in-python/]
